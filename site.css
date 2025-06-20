@@ -1,0 +1,52 @@
+body{
+
+background-color: grey;
+
+}
+.linkler{
+display:flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 5px;
+
+}
+h1{
+
+  text-align: center;
+   color: pink
+}
+h2{
+
+    color: violet;
+}
+
+p{
+color: white;
+    font-size: 20px;
+}
+#oyun-resim{
+
+    width: 400px;
+    height: 250px;
+}
+#hikaye-yorum{
+
+    color: yellow;
+    font-size: 20px;
+}
+
+#oyun{
+    font-size: 25px;
+color:purple;
+}
+
+#hakkımızda{
+
+    color:white;
+    font-size: 25px;
+}
+
+footer{
+font-size: 20px;
+    text-align: center;
+}
