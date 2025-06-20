@@ -19,6 +19,7 @@
 
 - Böyle bir düşünceye sahip değilim daha çok öğrenim amaçlıydı ayrıca bu tarz sitelerin varlığının internette fazlasıyla yer kaplaması sebebiyle çok doğru bir uğraş olduğunu düşünmüyorum
 - Edindiğim bilgilerin çoğunu başlangıç olarak kişisel sitem üzerinde kullanacağım
+- Teşekkür ederim inceleyen herkese
 
 
 
